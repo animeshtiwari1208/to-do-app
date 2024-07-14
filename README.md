@@ -11,7 +11,7 @@ This is a simple To-Do List application built using React and Redux with Vite.
 -  cd my-todo-app
 -  . Install dependencies:
 -  npm install
-  ##Running the Application
+  ## Running the Application
 - Start the development server:
 - npm run dev
  ##  The application uses Redux for state management.
