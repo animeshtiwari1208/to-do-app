@@ -1,9 +1,19 @@
-# React + Vite
+Live Versiopn: https://to-do-list-allinoneapp.netlify.app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# to-do-app
+   ## To-Do List Application
+This is a simple To-Do List application built using React and Redux with Vite.
+   ## Features
+- Add tasks
+- View tasks
+- Edit tasks
+- Delete tasks
+   ## Navigate to the project directory:
+-  cd my-todo-app
+-  . Install dependencies:
+-  npm install
+  ##Running the Application
+- Start the development server:
+- npm run dev
+ ##  The application uses Redux for state management.
+Functional components and React hooks (useState, useDispatch, useSelector) are used.
+Basic styling is done using CSS
